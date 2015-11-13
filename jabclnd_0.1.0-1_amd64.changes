@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Format: 1.8
+Date: Wed, 11 Nov 2015 12:42:52 -0000
+Source: jabclnd
+Binary: jabclnd
+Architecture: source all
+Version: 0.1.0-1
+Distribution: unstable
+Urgency: low
+Maintainer: Alexander Pravdin <aledin@mail.ru>
+Changed-By: Alexander Pravdin <aledin@mail.ru>
+Description:
+ jabclnd    - Jabber Client daemon (jabclnd)
+Changes:
+ jabclnd (0.1.0-1) unstable; urgency=low
+ .
+   * Initial release
+Checksums-Sha1:
+ f638f5f2fbbfefb2196fcf5cd9c76b9d44400079 1662 jabclnd_0.1.0-1.dsc
+ 79e84c62db52f16d145242f47565aa45ae8b856f 20608 jabclnd_0.1.0.orig.tar.gz
+ 232bd16e52f709fcfdb36749e44074596bb465a0 2912 jabclnd_0.1.0-1.debian.tar.xz
+ 8970fe65b5920d7618a34ab58617b82e444ff290 14886 jabclnd_0.1.0-1_all.deb
+Checksums-Sha256:
+ 71095002e55572ecfc02806194ac0b421aefc8ae4bd234c137c685121cfc364c 1662 jabclnd_0.1.0-1.dsc
+ f8025832ffa8b3e56be3c2963bd691c4b3bfd1b01c5121b90ba8ff9d9c6850c5 20608 jabclnd_0.1.0.orig.tar.gz
+ ae775c7a270da96946e2ccd57fc667a4ca0554f91421ebd2aaf39265bb3767d1 2912 jabclnd_0.1.0-1.debian.tar.xz
+ 8530eb39a07c1edb5cace5d3cb234bf9e3266dc91ee34a7a20af6b95b84a2767 14886 jabclnd_0.1.0-1_all.deb
+Files:
+ 2e3a9a6334e013559a055e356d25adc0 1662 net extra jabclnd_0.1.0-1.dsc
+ edd258e128f65b5477de6b1debc7f178 20608 net extra jabclnd_0.1.0.orig.tar.gz
+ c46995334f87a214ca906c259220ecc4 2912 net extra jabclnd_0.1.0-1.debian.tar.xz
+ 98d6ed3516eeb6ff2a7f8a66bd0a7d13 14886 net extra jabclnd_0.1.0-1_all.deb
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJWRZFVAAoJEBsrqc7YIVDofsAP/i42nTUBkgLBWRj5NBzsB0hX
+zYQOLn3OSTcvIof/8i+URa7VhV8rccP6tMwwstxvNGEE2wLAn4+SJapEhSW57uPt
+LNtaBkAdOyE93Xm4wUfOSySHmZYYq+dyoyLUG2QxGb7OMhsgNW3aCJf2Ew2ACfIZ
+r0HMEkyxLpTSL/O3OVPkdE4izAcCr6JK8S/rbmMcKt+5EZc/t4P+bVcLrf5GDM39
+3cm2WlM9oWM61zwsu/R1A6bisTXL544PzrStjssH3/ffedq+MRcXRa+3hD3Xt2/p
+SyepzQeN04cH6FuHbXSuVJQz8qxozvMYMWrccBgF1g5qpnABkaNr9Tgc2dcRT1Qg
+n+19278nha60PiIoXuUtbY3f9KGKasu5hQQv7UZtYnQnMYBum87PSTd3PCUQRqpX
+SOTme/tcmJ6tI4hyK0WkXf4U10mJLHxCDTkemkZlKtoxgN8VKQj6T31m3h8tOd8N
+RuIqR0Aaf8iEYk37uzPtGJE4Frm5tfXQ83pILTuzsubMlAz81+VmysuH4KtrKlga
+GslPrkWvh0KpZkfhFIOfOC8z8arxutCm2AtvDvgBy120sQJDTdEx/NLoRZgWBB8v
+f72cjdQAVBi/gl47JbmqpOkzoPDc/ZeRdj6/usTz5rmTYwVBVZdGGqfutd4QIwWa
+t5QXtbrOxm0WdNwePYn/
+=ZG3I
+-----END PGP SIGNATURE-----
